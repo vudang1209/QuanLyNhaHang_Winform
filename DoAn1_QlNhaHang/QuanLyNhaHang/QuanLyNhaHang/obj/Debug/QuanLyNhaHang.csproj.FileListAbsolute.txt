@@ -1,0 +1,11 @@
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.AssemblyReference.cache
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fLogin.resources
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+D:\DoAn1_QlNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.fMana.resources
